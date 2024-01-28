@@ -37,6 +37,7 @@ export default {
   min-height: 40px;
   margin-bottom: 30px;
   border: 1px solid rgba(46, 47, 66, 0.4);
+  background-color: #e6e6e6;
   border-radius: 4px;
   outline: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);

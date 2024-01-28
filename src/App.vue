@@ -91,7 +91,12 @@ export default {
 body {
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: #fff;
+  background: rgb(24, 5, 14);
+  background: radial-gradient(
+    circle,
+    rgba(24, 5, 14, 0.8939950980392157) 0%,
+    rgba(164, 157, 96, 1) 93%
+  );
 }
 
 ul {
